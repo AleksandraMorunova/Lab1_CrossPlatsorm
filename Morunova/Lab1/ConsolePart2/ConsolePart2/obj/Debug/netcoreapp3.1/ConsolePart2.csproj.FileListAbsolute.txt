@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\bin\Debug\netcoreapp3.1\ConsolePart2.exe
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\bin\Debug\netcoreapp3.1\ConsolePart2.deps.json
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\bin\Debug\netcoreapp3.1\ConsolePart2.runtimeconfig.json
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\bin\Debug\netcoreapp3.1\ConsolePart2.runtimeconfig.dev.json
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\bin\Debug\netcoreapp3.1\ConsolePart2.dll
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\bin\Debug\netcoreapp3.1\ConsolePart2.pdb
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\bin\Debug\netcoreapp3.1\ClassLibraryPart2.dll
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\bin\Debug\netcoreapp3.1\ClassLibraryPart2.pdb
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\obj\Debug\netcoreapp3.1\ConsolePart2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\obj\Debug\netcoreapp3.1\ConsolePart2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\obj\Debug\netcoreapp3.1\ConsolePart2.AssemblyInfo.cs
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\obj\Debug\netcoreapp3.1\ConsolePart2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\obj\Debug\netcoreapp3.1\ConsolePart2.csproj.CopyComplete
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\obj\Debug\netcoreapp3.1\ConsolePart2.dll
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\obj\Debug\netcoreapp3.1\ConsolePart2.pdb
+C:\Users\User\Desktop\Lab1\ConsolePart2\ConsolePart2\obj\Debug\netcoreapp3.1\ConsolePart2.genruntimeconfig.cache

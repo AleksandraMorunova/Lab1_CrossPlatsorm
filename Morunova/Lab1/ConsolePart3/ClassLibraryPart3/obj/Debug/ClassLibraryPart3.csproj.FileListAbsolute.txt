@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Lab1\ConsolePart3\ClassLibraryPart3\bin\Debug\ClassLibraryPart3.dll
+C:\Users\User\Desktop\Lab1\ConsolePart3\ClassLibraryPart3\bin\Debug\ClassLibraryPart3.pdb
+C:\Users\User\Desktop\Lab1\ConsolePart3\ClassLibraryPart3\obj\Debug\ClassLibraryPart3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lab1\ConsolePart3\ClassLibraryPart3\obj\Debug\ClassLibraryPart3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab1\ConsolePart3\ClassLibraryPart3\obj\Debug\ClassLibraryPart3.dll
+C:\Users\User\Desktop\Lab1\ConsolePart3\ClassLibraryPart3\obj\Debug\ClassLibraryPart3.pdb
+C:\Users\User\Desktop\Папка\Лабораторні\Кросс\Morunova\Lab1\ConsolePart3\ClassLibraryPart3\bin\Debug\ClassLibraryPart3.dll
+C:\Users\User\Desktop\Папка\Лабораторні\Кросс\Morunova\Lab1\ConsolePart3\ClassLibraryPart3\bin\Debug\ClassLibraryPart3.pdb
+C:\Users\User\Desktop\Папка\Лабораторні\Кросс\Morunova\Lab1\ConsolePart3\ClassLibraryPart3\obj\Debug\ClassLibraryPart3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Папка\Лабораторні\Кросс\Morunova\Lab1\ConsolePart3\ClassLibraryPart3\obj\Debug\ClassLibraryPart3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Папка\Лабораторні\Кросс\Morunova\Lab1\ConsolePart3\ClassLibraryPart3\obj\Debug\ClassLibraryPart3.dll
+C:\Users\User\Desktop\Папка\Лабораторні\Кросс\Morunova\Lab1\ConsolePart3\ClassLibraryPart3\obj\Debug\ClassLibraryPart3.pdb
